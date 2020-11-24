@@ -29,7 +29,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Links and Screenshot
 * GitHub Repository: https://github.com/progg1992/noteTaker.git
-* Deployed Application: 
+* Deployed Application: https://shrouded-lowlands-90629.herokuapp.com/
 
 ![index.html screenshot](public/screenshots/index.html.png)  
 
