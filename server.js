@@ -13,8 +13,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'))
 
-// This points our server to a series of "route" files.
-// These routes give our server a "map" of how to respond when users visit or request data from various URLs.
+
+// Requiring API and HTML routes
 require("./routes/api")(app);
 require("./routes/htmlRoutes")(app);
 
